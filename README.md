@@ -10,9 +10,6 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🚀 Featured Projects
 
 ### [Project Scrapper]([project-link](https://github.com/Eisenkassette/scrapper))
